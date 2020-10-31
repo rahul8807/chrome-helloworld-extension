@@ -1,0 +1,9 @@
+{
+    "name": "Hello World!",
+    "description": "My first Chrome App.",
+    "version": "0.1",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "./hello-world/helloworld.html"        
+      }
+  }
